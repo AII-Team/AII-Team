@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+sentencepiece
+
+flask
+pandas
+scikit-learn
+joblib
+gunicorn
